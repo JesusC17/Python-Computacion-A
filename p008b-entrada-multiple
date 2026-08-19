@@ -2,7 +2,7 @@
 # Leer multiples entradas con funcion map
 
 print("Ingresa 3 números separados por espacios: ")
-n1, n2, n3, n4, n5, n6, n7, n8, n9, n10 = map(int, input().split())
+n1, n2, n3, n4, n5, n6, n7, n8, n9, n10 = map(float, input().split())
 
 suma = n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10
 

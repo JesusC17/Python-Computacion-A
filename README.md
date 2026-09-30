@@ -122,7 +122,7 @@
 - p085-simulador-venta-combustible.py
 - p085-bitacora-ia.pdf
 
-## Actividad 12
+## Actividad 12 - Listas Parte 1
 
 - p086-acceder-lista.py
 - p087-modificar-lista.py
@@ -131,3 +131,12 @@
 - p090-iterar-lista.py
 - p091-lista-de-gastos.py
 - p091-lista-de-gastos_b.py
+
+## Actividad 13 - Listas Parte 2
+
+- p092-procesar-calificaciones.py
+- p093-consolidar-ventas.py
+- p094-precio-acciones.py
+- p095-registro-estudiantes.py
+- p096-procesar-datos-sensores.py
+- p097-producto-punto.py

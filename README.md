@@ -1,6 +1,5 @@
 # Computación 
 ## Programas desarrollados durante el curso
-
 - Nombre: Jesús Rocha Contreras
 - Correo: 38195369@uaz.edu.mx
 
@@ -100,7 +99,6 @@
 - p073-cifrado-cesar.py
 
 ## Actividad 10 - Ejecución repetitiva - Parte 4
-
 - p074-tablas-todas.py
 - p075-triangulo-caracter.py
 - p076-piramide-caracter.py
@@ -110,7 +108,6 @@
 - p079-suma-potencias.py
 
 ## Tarea 4 - Ciclos for
-
 - p080-compara-rendimiento-inversion.py
 - p081-plan-ahorro-depistos-mensuales.py
 - p082-cuadro-hueco-caracter.py
@@ -118,12 +115,10 @@
 - p084-triangulo-invertido-numeros.py
 
 ## Examen Practico
-
 - p085-simulador-venta-combustible.py
 - p085-bitacora-ia.pdf
 
 ## Actividad 12 - Listas Parte 1
-
 - p086-acceder-lista.py
 - p087-modificar-lista.py
 - p088-agregar-lista.py
@@ -133,10 +128,18 @@
 - p091-lista-de-gastos_b.py
 
 ## Actividad 13 - Listas Parte 2
-
 - p092-procesar-calificaciones.py
 - p093-consolidar-ventas.py
 - p094-precio-acciones.py
 - p095-registro-estudiantes.py
 - p096-procesar-datos-sensores.py
 - p097-producto-punto.py
+
+## Actividad 14 - Listas Parte 3
+- p098-cuadrados-lista.py
+- p099-filtrar-pares.py
+- p100-normalizar-nombres.py
+- p101-clasificar-temperaturas.py
+- p102-aplanar-matriz.py
+- p103-resumen-ventas.py
+- p103-resumen-ventas_v2.py

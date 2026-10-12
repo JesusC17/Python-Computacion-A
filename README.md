@@ -161,3 +161,9 @@
 - p115-conversor-unidades.py
 - p116-conversion-divisas.py
 - p117-punto-de-venta.py
+
+## Actividad 16 - Diccionarios Parte 2
+- p118-lote-autos.py
+- p119-registro-estudiantes.py
+- p120-reporte-ventas.py
+- p121-area-figuras.py

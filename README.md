@@ -175,3 +175,7 @@
 - p125-eliminar-diccionario.py
 - p126-procesar-diccionario.py
 - p127-contar-caracteres.py
+
+## Actividad 17 - Conjuntos
+- p128-municipios.py
+- p129-operaciones-conjuntos.py

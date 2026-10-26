@@ -187,3 +187,7 @@
 ## Actividad 19 - Tuplas
 - p132-coordenadas-tuplas.py
 - p133-alumnos-tuplas.py
+
+## Tarea 8 - Tuplas
+- p134-coordenadas-tuplas.py
+- p135-alumnos-tuplas.py

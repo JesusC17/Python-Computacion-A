@@ -114,7 +114,7 @@
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
 
-## Examen Practico
+## Examen Practico 1
 - p085-simulador-venta-combustible.py
 - p085-bitacora-ia.pdf
 
@@ -191,3 +191,7 @@
 ## Tarea 8 - Tuplas
 - p134-coordenadas-tuplas.py
 - p135-alumnos-tuplas.py
+
+## Examen Practico 2
+- p136-segundo-examen-parcial.py
+- p136-segundo-examen-parcial-bitacora-ia.pdf

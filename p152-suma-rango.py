@@ -3,7 +3,10 @@
 # 1.... 5 = 1 + 2 + 3 + 4 + 5 = 15
 
 def suma_rango(inicio:int, fin:int) -> int:
-    """ Regresa la suma de los valores en el rango inicio y fin """
+    """ Regresa la suma de los valores en el rango inicio y fin 
+        Args:
+            ini:
+    """
     suma = 0
     for i in range(inicio, fin+1):
         suma += i
@@ -18,4 +21,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-    
